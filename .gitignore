@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Keras models (too large for git)
+*.keras
+*.h5
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+01-hyperparameters/gesture_dataset_sample/
